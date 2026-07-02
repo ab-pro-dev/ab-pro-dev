@@ -4,14 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Abera%20Hagazi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20%26%20Web%20Performance&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- ===================== TYPING SVG BANNER ===================== -->
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/ab-pro-dev">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Fast+%26+Secure+E-Commerce+Apps+%F0%9F%9B%92;React+%7C+Node.js+%7C+Next.js+%7C+Express+%E2%9A%A1;Turning+Coffee+Into+Clean+Code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYOUR-USERNAME%2Fprofile-readme&style=for-the-badge&logo=github" alt="profile views"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
 
 </div>
 
@@ -84,16 +83,16 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ab-pro-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-pro-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-pro-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ab-pro-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
@@ -101,10 +100,10 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/ab-pro-dev/ab-pro-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 </div>
 
-> ℹ️ To activate the snake animation on your own profile, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a workflow in your `YOUR-USERNAME/YOUR-USERNAME` repo — it generates this SVG automatically on a schedule.
+> ℹ️ To activate the snake animation on your own profile, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a workflow in your `ab-pro-dev/ab-pro-dev` repo — it generates this SVG automatically on a schedule.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
@@ -139,7 +138,7 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 <tr>
 <td width="50%">
 
-### 🛍️ [E-Commerce Platform](https://github.com/YOUR-USERNAME/your-ecommerce-repo)
+### 🛍️ [E-Commerce Platform](https://github.com/ab-pro-dev/your-ecommerce-repo)
 Full-stack storefront with cart, checkout, and admin dashboard — built for speed and scale.
 
 `React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
@@ -147,7 +146,7 @@ Full-stack storefront with cart, checkout, and admin dashboard — built for spe
 </td>
 <td width="50%">
 
-### ⚡ [Performance Dashboard](https://github.com/YOUR-USERNAME/your-dashboard-repo)
+### ⚡ [Performance Dashboard](https://github.com/ab-pro-dev/your-dashboard-repo)
 Real-time analytics dashboard tracking site performance & user behavior.
 
 `React` `Node.js` `PostgreSQL` `Chart.js`
@@ -157,7 +156,7 @@ Real-time analytics dashboard tracking site performance & user behavior.
 <tr>
 <td width="50%">
 
-### 🔐 [Secure Auth API](https://github.com/YOUR-USERNAME/your-auth-repo)
+### 🔐 [Secure Auth API](https://github.com/ab-pro-dev/your-auth-repo)
 Production-ready authentication service with JWT, refresh tokens, and RBAC.
 
 `Node.js` `Express.js` `MongoDB` `JWT`
@@ -165,7 +164,7 @@ Production-ready authentication service with JWT, refresh tokens, and RBAC.
 </td>
 <td width="50%">
 
-### 🎨 [Portfolio & UI Kit](https://github.com/YOUR-USERNAME/your-portfolio-repo)
+### 🎨 [Portfolio & UI Kit](https://github.com/ab-pro-dev/your-portfolio-repo)
 Personal portfolio and reusable component library built with a design-system mindset.
 
 `React` `Tailwind CSS` `Next.js`
