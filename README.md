@@ -23,8 +23,6 @@ name: Abera Hagazi
 role: Full-Stack Developer
 focus: 🛒 High-Performance E-Commerce & Web Applications
 mission: Building secure, scalable, and blazing-fast web experiences
-currently: Shipping pixel-perfect UI backed by rock-solid APIs
-fun_fact: I debug with console.log() and I'm not ashamed 😅
 ```
 
 - 🚀 I build **secure, scalable, and efficient** web apps that don't just work — they *fly*.
