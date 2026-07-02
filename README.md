@@ -29,7 +29,7 @@ mission: Building secure, scalable, and blazing-fast web experiences
 - 🛍️ Specialized in **e-commerce platforms** — cart flows, payments, performance, the whole deal.
 - 🎯 Obsessed with **UX, performance & security** in equal measure.
 - 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
-- ⚡ Fun fact: I think in components and dream in JSON.
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
