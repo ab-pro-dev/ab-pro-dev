@@ -1,128 +1,202 @@
-<!-- Visitor Counter & Wave Top -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AberaHagazi&label=Profile%20Views&color=00D2FF&style=flat-square" alt="AberaHagazi views" />
-</p>
+<div align="center">
 
-# ⚡ Hi, I'm Abera Hagazi
+<!-- ===================== WAVE HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Abera%20Hagazi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20%26%20Web%20Performance&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Animated Typing Intro Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&background=00000000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;E-Commerce+Architect;Performance+%26+Security+Focused" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ===================== TYPING SVG BANNER ===================== -->
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Fast+%26+Secure+E-Commerce+Apps+%F0%9F%9B%92;React+%7C+Node.js+%7C+Next.js+%7C+Express+%E2%9A%A1;Turning+Coffee+Into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+</a>
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,00D2FF,39FF14&height=120&section=header" width="100%" />
+<br/>
 
----
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FYOUR-USERNAME%2Fprofile-readme&style=for-the-badge&logo=github" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
 
-## 🚀 About Me
+</div>
 
-I am a passionate **Full-Stack Developer** dedicated to engineering high-performance E-commerce applications and scalable web solutions. My philosophy centers on writing clean, efficient code while prioritizing rock-solid security, lightning-fast performance, and exceptional user experiences (UX).
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
-* 💻 **What I do:** Turn complex business logic into smooth, secure digital products.
-* 🔒 **Focus Areas:** Scalable architectures, secure payment gateways, and Core Web Vitals optimization.
-* ⚡ **Fun Fact:** I believe a millisecond saved in page load time is a victory won!
+## 🧑‍💻 About Me
 
----
+```yaml
+name: Abera Hagazi
+role: Full-Stack Developer
+focus: 🛒 High-Performance E-Commerce & Web Applications
+mission: Building secure, scalable, and blazing-fast web experiences
+currently: Shipping pixel-perfect UI backed by rock-solid APIs
+fun_fact: I debug with console.log() and I'm not ashamed 😅
+```
 
-## 🛠️ My Tech Stack
+- 🚀 I build **secure, scalable, and efficient** web apps that don't just work — they *fly*.
+- 🛍️ Specialized in **e-commerce platforms** — cart flows, payments, performance, the whole deal.
+- 🎯 Obsessed with **UX, performance & security** in equal measure.
+- 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
+- ⚡ Fun fact: I think in components and dream in JSON.
 
-### 🗣️ Languages
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
-### 🎨 Frontend
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack
 
-### ⚙️ Backend & Frameworks
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
 
-### 🗄️ Databases & Tools
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🏆 Github Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AberaHagazi&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="AberaHagazi trophies" />
-  </a>
-</p>
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 Git Analytics
+**Backend**
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AberaHagazi&show_icons=true&theme=tokyonight&count_private=true" alt="Abera's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AberaHagazi&layout=compact&theme=tokyonight" alt="Abera's Top Langs" />
-  </a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AberaHagazi&theme=tokyonight" alt="Abera's GitHub Streak" />
-  </a>
-</p>
+**Databases**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 💡 Currently Working & Learning
+**Tools & DevOps**
 
-* 🔭 **I’m currently working on:** A microservices-based high-concurrency E-commerce checkout engine.
-* 🌱 **I’m currently learning:** Advanced system design, Web3 integrations, and Next.js server actions security.
-* 💬 **Ask me about:** JavaScript/Node optimization, React state management, and building secure APIs.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+</div>
 
-## 📌 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
-### 🛒 [QuantumCommerce](https://github.com/AberaHagazi/quantum-commerce)
-An ultra-fast, Next.js & Node.js powered E-commerce platform features sub-100ms page transitions, Redis caching, and Stripe payment integration.
-> **Tech Stack:** `Next.js` `Node.js` `Express` `Tailwind CSS` `MongoDB`
+## 📊 GitHub Stats
 
-### 🛡️ [SecureGuard Auth](https://github.com/AberaHagazi/secureguard-auth)
-A plug-and-play secure authentication service leveraging JWT, multi-factor authentication (MFA), and rate-limiting to mitigate brute-force vectors.
-> **Tech Stack:** `JavaScript` `Node.js` `Express` `PostgreSQL`
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
 
-## 🎨 Contribution Snake
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AberaHagazi/AberaHagazi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
----
+## 📈 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+</div>
+
+> ℹ️ To activate the snake animation on your own profile, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a workflow in your `YOUR-USERNAME/YOUR-USERNAME` repo — it generates this SVG automatically on a schedule.
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
+
+## 🔭 Currently Working On / Learning
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🚧 Currently Building
+- 🛒 A high-performance **e-commerce storefront** with Next.js + Stripe
+- 🔐 Hardening auth flows with JWT & rate-limiting best practices
+- ⚡ Optimizing Core Web Vitals across client projects
+
+</td>
+<td valign="top" width="50%">
+
+### 📚 Currently Learning
+- 🧠 System design for large-scale e-commerce architecture
+- ☁️ Cloud-native deployment patterns (Docker → CI/CD)
+- 🧪 Advanced testing strategies (unit, integration, e2e)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ [E-Commerce Platform](https://github.com/YOUR-USERNAME/your-ecommerce-repo)
+Full-stack storefront with cart, checkout, and admin dashboard — built for speed and scale.
+
+`React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+### ⚡ [Performance Dashboard](https://github.com/YOUR-USERNAME/your-dashboard-repo)
+Real-time analytics dashboard tracking site performance & user behavior.
+
+`React` `Node.js` `PostgreSQL` `Chart.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [Secure Auth API](https://github.com/YOUR-USERNAME/your-auth-repo)
+Production-ready authentication service with JWT, refresh tokens, and RBAC.
+
+`Node.js` `Express.js` `MongoDB` `JWT`
+
+</td>
+<td width="50%">
+
+### 🎨 [Portfolio & UI Kit](https://github.com/YOUR-USERNAME/your-portfolio-repo)
+Personal portfolio and reusable component library built with a design-system mindset.
+
+`React` `Tailwind CSS` `Next.js`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*💡 Replace these with your real repos — pin your best 4-6 on your GitHub profile for extra visibility!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
 
-<!-- Subtle Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,39FF14,00D2FF&height=80&section=footer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-TWITTER)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-site.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+<div align="center">
+
+**⭐️ Thanks for stopping by — if something here caught your eye, drop a star on a repo!**
+
+</div>
