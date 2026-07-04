@@ -2,6 +2,8 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="250" align="right"/>
+
 ### 🧑‍💻 About Me
 
 **Name:** Abera Hagazi  
@@ -16,8 +18,6 @@
 - 🎯 Obsessed with **UX, performance & security** in equal measure.
 - 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
 - ⚡ Fun fact: I think in components and dream in JSON.
-
-<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
