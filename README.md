@@ -1,17 +1,7 @@
+
+
 <div align="center">
-
-<!-- ===================== FUTURISTIC HERO BANNER ===================== -->
-<img src="./banner.svg" width="100%"/>
-
-<!-- ===================== TYPING SVG BANNER ===================== -->
-<a href="https://github.com/ab-pro-dev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Fast+%26+Secure+E-Commerce+Apps+%F0%9F%9B%92;React+%7C+Node.js+%7C+Next.js+%7C+Express+%E2%9A%A1;Turning+Coffee+Into+Clean+Code+%E2%98%95" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
