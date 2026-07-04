@@ -5,19 +5,7 @@
 <img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="250" align="right"/>
 
 ### 🧑‍💻 About Me
-
-**Name:** Abera Hagazi  
-**Role:** Full-Stack Developer  
-**Focus:** 🛒 High-Performance E-Commerce & Web Applications  
-**Mission:** Building secure, scalable, and blazing-fast web experiences  
-**Currently:** Shipping pixel-perfect UI backed by rock-solid APIs  
-**Fun fact:** I debug with console.log() and I'm not ashamed 😅
-
-- 🚀 I build **secure, scalable, and efficient** web apps that don't just work — they *fly*.
-- 🛍️ Specialized in **e-commerce platforms** — cart flows, payments, performance, the whole deal.
-- 🎯 Obsessed with **UX, performance & security** in equal measure.
-- 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
-- ⚡ Fun fact: I think in components and dream in JSON.
+I'm a Full-Stack Developer who loves building secure, scalable, and fast e-commerce apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance , if something feels off, I won't leave it alone until it's right. Always learning, always picking up new frameworks, patterns, and challenges along the way.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
