@@ -2,7 +2,11 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
-<h2>🧑‍💻 About Me</h2>
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### 🧑‍💻 About Me
 
 ```yaml
 name: Abera Hagazi
@@ -18,6 +22,15 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 - 🎯 Obsessed with **UX, performance & security** in equal measure.
 - 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
 - ⚡ Fun fact: I think in components and dream in JSON.
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
