@@ -2,12 +2,7 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none; padding: 0;"><h2>🧑‍💻 About Me</h2></td>
-<td style="border: none; padding: 0;" align="right"><img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/></td>
-</tr>
-</table>
+<h2>🧑‍💻 About Me</h2>
 
 ```yaml
 name: Abera Hagazi
@@ -184,5 +179,11 @@ Personal portfolio and reusable component library built with a design-system min
 <div align="center">
 
 **⭐️ Thanks for stopping by — if something here caught your eye, drop a star on a repo!**
+
+</div>
+
+<div align="right">
+
+<img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
 
 </div>
