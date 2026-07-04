@@ -127,12 +127,4 @@
     <!-- "FULL-STACK DEVELOPER" -->
     <text x="0" y="252" font-family="'Courier New', Courier, monospace" font-size="14" fill="#22d3ee" letter-spacing="5" opacity="0.9">FULL-STACK DEVELOPER</text>
   </g>
-
-  <!-- Visitor badge overlay (top-right corner) -->
-  <g>
-    <!-- Semi-transparent dark background behind badge -->
-    <rect x="974" y="18" width="208" height="40" rx="6" ry="6" fill="#000000" fill-opacity="0.45"/>
-    <!-- Badge image -->
-    <image x="980" y="24" width="196" height="28" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTQuMDI4MzIwMzEyNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJWSVNJVE9SUzogMTkiPgoJPHRpdGxlPlZJU0lUT1JTOiAxOTwvdGl0bGU+Cgk8ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPgoJCTxyZWN0IHdpZHRoPSI3Ny42OTMzNTkzNzUiIGhlaWdodD0iMjgiIGZpbGw9IiM1NTUiLz4KCQk8cmVjdCB4PSI3Ny42OTMzNTkzNzUiIHdpZHRoPSIzNi4zMzQ5NjA5Mzc1IiBoZWlnaHQ9IjI4IiBmaWxsPSIjNThBNkZGIi8+Cgk8L2c+Cgk8ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgbGV0dGVyLXNwYWNpbmc9IjEuMSI+CgkJPHRleHQgeD0iMzkuOCIgeT0iMTcuNSIgZmlsbD0iI2ZmZiI+VklTSVRPUlM8L3RleHQ+CgkJPHRleHQgeD0iOTQuODkzMzU5Mzc1IiB5PSIxNy41IiBmaWxsPSIjZmZmIiBmb250LXdlaWdodD0iYm9sZCI+MTk8L3RleHQ+Cgk8L2c+Cjwvc3ZnPgo="/>
-  </g>
 </svg>
