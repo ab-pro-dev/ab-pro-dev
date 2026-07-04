@@ -77,7 +77,7 @@ I'm a Full-Stack Developer who loves building secure, scalable, and fast e-comme
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### 🚧 Currently Building
 - 🛒 A high-performance **e-commerce storefront** with Next.js + Stripe
