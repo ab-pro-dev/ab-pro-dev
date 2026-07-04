@@ -23,13 +23,15 @@ name: Abera Hagazi
 role: Full-Stack Developer
 focus: 🛒 High-Performance E-Commerce & Web Applications
 mission: Building secure, scalable, and blazing-fast web experiences
+currently: Shipping pixel-perfect UI backed by rock-solid APIs
+fun_fact: I debug with console.log() and I'm not ashamed 😅
 ```
 
 - 🚀 I build **secure, scalable, and efficient** web apps that don't just work — they *fly*.
 - 🛍️ Specialized in **e-commerce platforms** — cart flows, payments, performance, the whole deal.
 - 🎯 Obsessed with **UX, performance & security** in equal measure.
 - 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
-
+- ⚡ Fun fact: I think in components and dream in JSON.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
@@ -81,8 +83,8 @@ mission: Building secure, scalable, and blazing-fast web experiences
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ab-pro-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-pro-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ab-pro-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ab-pro-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -90,7 +92,7 @@ mission: Building secure, scalable, and blazing-fast web experiences
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ab-pro-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=ab-pro-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
