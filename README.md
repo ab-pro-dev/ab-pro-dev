@@ -141,7 +141,6 @@ Personal portfolio and reusable component library built with a design-system min
 
 <div align="center">
 
-*💡 Replace these with your real repos — pin your best 4-6 on your GitHub profile for extra visibility!*
 
 </div>
 
@@ -151,11 +150,11 @@ Personal portfolio and reusable component library built with a design-system min
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-TWITTER)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-site.com)
-
+<a href="https://www.linkedin.com/in/abera-hagazi-631847401/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="https://t.me/abpromax" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="https://x.com/AberaHagaz84701" target="_blank"><img src="https://img.icons8.com/color/48/twitterx.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="mailto:aberahagazi7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.icons8.com/color/48/domain.png" width="35" height="35"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
