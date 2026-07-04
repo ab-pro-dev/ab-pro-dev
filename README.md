@@ -5,7 +5,16 @@
 <img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="250" align="right"/>
 
 ### 🧑‍💻 About Me
-I'm a Full-Stack Developer who loves building secure, scalable, and fast e-commerce apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance , if something feels off, I won't leave it alone until it's right. Always learning, always picking up new frameworks, patterns, and challenges along the way.
+I'm a Full-Stack Developer who loves building secure, scalable, and fast e-commerce apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance. Always learning, always picking up new frameworks, patterns, and challenges along the way.<br><br>
+Contact Me:
+<div align="left">
+
+<a href="https://www.linkedin.com/in/abera-hagazi-631847401/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="https://t.me/abpromax" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="https://x.com/AberaHagaz84701" target="_blank"><img src="https://img.icons8.com/color/48/twitterx.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="mailto:aberahagazi7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35"/></a>&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.icons8.com/color/48/domain.png" width="35" height="35"/></a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
