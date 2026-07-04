@@ -2,22 +2,22 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
-<h2>🧑‍💻 About Me</h2>
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-```yaml
-name: Abera Hagazi
-role: Full-Stack Developer
-focus: 🛒 High-Performance E-Commerce & Web Applications
-mission: Building secure, scalable, and blazing-fast web experiences
-currently: Shipping pixel-perfect UI backed by rock-solid APIs
-fun_fact: I debug with console.log() and I'm not ashamed 😅
-```
+### 🧑‍💻 About Me
 
-- 🚀 I build **secure, scalable, and efficient** web apps that don't just work — they *fly*.
-- 🛍️ Specialized in **e-commerce platforms** — cart flows, payments, performance, the whole deal.
-- 🎯 Obsessed with **UX, performance & security** in equal measure.
-- 🌱 Constantly leveling up — new frameworks, new patterns, new problems to solve.
-- ⚡ Fun fact: I think in components and dream in JSON.
+Full-stack developer specializing in high-performance e-commerce & web applications. I build secure, scalable platforms with blazing-fast UX — obsessed with performance, security, and clean code. Currently shipping pixel-perfect UIs backed by rock-solid APIs. ⚡ I think in components and dream in JSON.
+
+</td>
+<td width="40%" valign="middle">
+
+<img src="./assets/coding_illustration.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
