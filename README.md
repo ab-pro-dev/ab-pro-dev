@@ -23,10 +23,7 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 
 ## 🛠️ Tech Stack
 
-
-
-
-**Languages**
+  Languages
  
 <p>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" height="55"/>
@@ -37,7 +34,7 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML" height="55"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS" height="55"/>
 </p>
-**Frameworks & Libraries**
+  Frameworks & Libraries
  
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" height="55"/>
@@ -46,14 +43,14 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
   <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" height="55"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" height="55"/>
 </p>
-**Databases**
+  Databases
  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" height="55"/>
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" height="55"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" height="55"/>
 </p>
-**Tools & DevOps**
+  Tools & DevOps
  
 <p>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" height="55"/>
