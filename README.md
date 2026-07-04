@@ -2,13 +2,12 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
-
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td><h2>🧑‍💻 About Me</h2></td>
+<td align="right"><img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/></td>
+</tr>
+</table>
 
 ```yaml
 name: Abera Hagazi
