@@ -82,7 +82,6 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
   <img src="https://raw.githubusercontent.com/ab-pro-dev/ab-pro-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 </div>
 
-> ℹ️ To activate the snake animation on your own profile, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a workflow in your `ab-pro-dev/ab-pro-dev` repo — it generates this SVG automatically on a schedule.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
