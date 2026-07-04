@@ -2,10 +2,10 @@
 
 <img src="./banner_live.svg" width="100%"/>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td><h2>🧑‍💻 About Me</h2></td>
-<td align="right"><img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/></td>
+<td style="border: none; padding: 0;"><h2>🧑‍💻 About Me</h2></td>
+<td style="border: none; padding: 0;" align="right"><img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/></td>
 </tr>
 </table>
 
