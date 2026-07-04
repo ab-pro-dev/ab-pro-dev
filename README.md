@@ -23,47 +23,46 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Languages
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="55"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" height="55"/>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" height="55"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" height="55"/>
+</p>
+Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" height="55"/>
+</p>
+Databases
 
-**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" height="55"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" height="55"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" height="55"/>
+</p>
+Tools & DevOps
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" height="55"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" height="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" height="55"/>
+</p>
 </div>
-
+</div>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
 ## 📊 GitHub Stats
