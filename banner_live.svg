@@ -125,6 +125,6 @@
     <line x1="0" y1="225" x2="350" y2="225" stroke="#22d3ee" stroke-width="2" opacity="0.8"/>
 
     <!-- "FULL-STACK DEVELOPER" -->
-    <text x="0" y="265" font-family="'Courier New', Courier, monospace" font-size="18" fill="#22d3ee" letter-spacing="6" opacity="0.9">FULL-STACK DEVELOPER</text>
+    <text x="0" y="265" font-family="'Courier New', Courier, monospace" font-size="30" fill="#22d3ee" letter-spacing="6" opacity="0.9">FULL-STACK DEVELOPER</text>
   </g>
 </svg>
