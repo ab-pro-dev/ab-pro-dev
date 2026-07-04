@@ -83,10 +83,6 @@ fun_fact: I debug with console.log() and I'm not ashamed 😅
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-pro-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=ab-pro-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
 ## 📈 Contribution Snake
