@@ -1,6 +1,6 @@
 
 
-<img src="./banner.svg" width="100%"/>
+<img src="./banner_live.svg" width="100%"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ab-pro-dev&color=58A6FF&style=for-the-badge&label=VISITORS" alt="visitor badge"/>
