@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ===================== WAVE HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Abera%20Hagazi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20%26%20Web%20Performance&descAlignY=55&descSize=18" width="100%"/>
+<!-- ===================== FUTURISTIC HERO BANNER ===================== -->
+<img src="./banner.svg" width="100%"/>
 
 <!-- ===================== TYPING SVG BANNER ===================== -->
 <a href="https://github.com/ab-pro-dev">
