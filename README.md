@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="250" align="right"/>
 
 ### 🧑‍💻 About Me
-I'm a Full-Stack Developer who loves building secure, scalable, and fast e-commerce apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance. Always learning, always picking up new frameworks, patterns, and challenges along the way.<br><br>
+I'm a Full-Stack Developer who loves building secure, scalable and fast Web and Mobile apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance. Always learning, always picking up new frameworks, patterns, and challenges along the way.<br><br>
 Contact Me:
 <div align="left">
 
