@@ -5,7 +5,7 @@
 <img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="250" align="right"/>
 
 ### 🧑‍💻 About Me
-I'm a Full-Stack Developer who loves building secure, scalable and fast Web and Mobile apps everything from database design to pixel-perfect UIs on web and mobile, with a bit of desktop development on the side. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance. Always learning, always picking up new frameworks, patterns, and challenges along the way.<br><br>
+I'm a Full-Stack Developer who loves building secure, scalable and fast Web and Mobile apps everything from database design to pixel-perfect UIs on web and mobile. I enjoy crafting backends that are solid and secure, while building frontends that people actually find enjoyable to use. I care a lot about good UI, UX, security, and performance. Always learning, always picking up new frameworks, patterns, and challenges along the way.<br><br>
 Contact Me:
 <div align="left">
 
@@ -89,70 +89,23 @@ Contact Me:
 <tr>
 <td valign="top" width="40%">
 
-### 🚧 Currently Building
-- 🛒 A high-performance **e-commerce storefront** with Next.js + Stripe
-- 🔐 Hardening auth flows with JWT & rate-limiting best practices
-- ⚡ Optimizing Core Web Vitals across client projects
+### 🚀 Currently Building
+- 🛒 High-performance e-commerce websites and inventory management software
+- 🛠️ Developer tools that simplify workflows and improve productivity
+- 🤖 AI agent skills to automate and streamline development tasks
+- 🌍 Open-source projects 
 
 </td>
 <td valign="top" width="50%">
 
 ### 📚 Currently Learning
-- 🧠 System design for large-scale e-commerce architecture
-- ☁️ Cloud-native deployment patterns (Docker → CI/CD)
-- 🧪 Advanced testing strategies (unit, integration, e2e)
+- 🔐 Cybersecurity, focusing on system vulnerabilities, network security, and application security
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ [E-Commerce Platform](https://github.com/ab-pro-dev/your-ecommerce-repo)
-Full-stack storefront with cart, checkout, and admin dashboard — built for speed and scale.
-
-`React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-### ⚡ [Performance Dashboard](https://github.com/ab-pro-dev/your-dashboard-repo)
-Real-time analytics dashboard tracking site performance & user behavior.
-
-`React` `Node.js` `PostgreSQL` `Chart.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 [Secure Auth API](https://github.com/ab-pro-dev/your-auth-repo)
-Production-ready authentication service with JWT, refresh tokens, and RBAC.
-
-`Node.js` `Express.js` `MongoDB` `JWT`
-
-</td>
-<td width="50%">
-
-### 🎨 [Portfolio & UI Kit](https://github.com/ab-pro-dev/your-portfolio-repo)
-Personal portfolio and reusable component library built with a design-system mindset.
-
-`React` `Tailwind CSS` `Next.js`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=&fontSize=0" width="100%"/>
 
