@@ -124,7 +124,7 @@ Contact Me:
 
 <div align="center">
 
-**⭐️ Thanks for stopping by — if something here caught your eye, drop a star on a repo!**
+**⭐️ Thanks for stopping by. if something here caught your eye, drop a star on a repo!**
 
 </div>
 
