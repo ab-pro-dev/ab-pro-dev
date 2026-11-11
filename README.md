@@ -22,7 +22,7 @@ Contact Me:
 
   Languages
  
-<p>
+ <p>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" height="55"/>
   <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="55"/>
   <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="55"/>
