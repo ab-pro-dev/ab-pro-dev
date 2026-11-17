@@ -50,14 +50,24 @@ Contact Me:
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" height="55"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" height="55"/>
 </p>
-  Tools & DevOps
+
+   Cloud, DevOps & Infrastructure
+   <p>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" height="55"/>
+     <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" height="55"/>
+     <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" height="55"/>
+     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" height="55"/>
+     <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" height="55"/>
+     <img src="https://cdn.simpleicons.org/neon" alt="Neon" title="Neon" height="50"/>
+   </p>
+   
+  DevTools
  
 <p>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" height="55"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" height="55"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" height="55"/>
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" height="55"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" height="55"/>
 </p>
 </div>
 </div>
