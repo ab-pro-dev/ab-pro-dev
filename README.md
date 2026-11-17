@@ -30,6 +30,7 @@ Contact Me:
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="55"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML" height="55"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS" height="55"/>
+   <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" height="55"/>
 </p>
   Frameworks & Libraries
  
