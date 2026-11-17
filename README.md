@@ -40,6 +40,7 @@ Contact Me:
   <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" height="55"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" height="55"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" height="55"/>
+  <img src="https://cdn.simpleicons.org/fastify/white" alt="Fastify" title="Fastify" height="55"/>
 </p>
   Databases
  
